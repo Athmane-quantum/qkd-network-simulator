@@ -4,7 +4,7 @@ Quantum Key Distribution network simulator built with Qiskit.
 Simulates the BB84 protocol with Alice, Bob, and Eve (eavesdropper),
 computes the QBER (Quantum Bit Error Rate), and extends to multi-node networks.
 
-Built as part of a 4-month learning journey toward the QOSF Mentorship Program.
+Developed over 16 weeks as part of an independent research project.
 
 ---
 
