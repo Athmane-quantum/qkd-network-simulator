@@ -1,39 +1,26 @@
-# QKD Network Simulator
+# Quantum Learning Journal
 
-Quantum Key Distribution network simulator built with Qiskit.
-Simulates the BB84 protocol with Alice, Bob, and Eve (eavesdropper),
-computes the QBER (Quantum Bit Error Rate), and extends to multi-node networks.
+Daily notebooks documenting my quantum computing learning path.
+Built toward a QKD network simulator (BB84 protocol) — target: Week 7.
 
-Developed over 16 weeks as part of an independent research project.
+## Structure
 
----
+notebooks/ — one Jupyter notebook per day
 
-## Status
+## Progress
 
-**Week 1 / 16** — Qiskit fundamentals & quantum circuit basics.
-BB84 implementation starts Week 7.
-
----
-
-## Roadmap
-
-| Phase | Weeks | Goal |
-|-------|-------|------|
-| Foundations | 1–6 | Qiskit basics, quantum gates, circuits |
-| BB84 Protocol | 7–8 | Alice, Bob, Eve simulation + QBER |
-| Network Extension | 9–11 | 3-node network with relay + visual metrics |
-| Final Simulator | 12–16 | Intrusion detection, clean graphs, QOSF presentation |
-
----
+| Week | Focus | Status |
+|------|-------|--------|
+| 1–6 | Qiskit fundamentals, quantum gates, circuits | 🔄 In progress |
+| 7–8 | BB84 protocol — Alice, Bob, Eve | ⏳ |
+| 9–11 | 3-node network + metrics | ⏳ |
+| 12–16 | Full simulator — QOSF presentation | ⏳ |
 
 ## Stack
 
 - Python 3.10+
 - Qiskit
-- Matplotlib (week 9+)
-
----
-
+- Jupyter
 ## Author
 
 Athmane — [@Athmane-quantum](https://github.com/Athmane-quantum)
