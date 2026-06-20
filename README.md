@@ -11,7 +11,7 @@ notebooks/ — one Jupyter notebook per day
 
 | Week | Focus | Status |
 |------|-------|--------|
-| 1–6 | Qiskit fundamentals, quantum gates, circuits | 🔄 In progress |
+| 1–6 | Qiskit fundamentals, quantum gates, circuits | In progress |
 | 7–8 | BB84 protocol — Alice, Bob, Eve | ⏳ |
 | 9–11 | 3-node network + metrics | ⏳ |
 | 12–16 | Full simulator — QOSF presentation | ⏳ |
